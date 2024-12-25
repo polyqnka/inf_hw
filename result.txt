@@ -1,0 +1,25 @@
+`grep "^A" task.txt`
+Apple pie is delicious and nutritious.
+Aardvarks are amazing animals native to Africa.
+Astronauts explore the vastness of space.
+Advanced algorithms can solve complex problems.
+
+`grep -i "apple" task.txt`
+Apple pie is delicious and nutritious.
+Grapes, cherries, and apples are my favorite fruits.
+
+`grep -i -c "apple" task.txt`
+2
+
+`grep -v "apple" task.txt`
+The quick brown fox jumps over the lazy dog.
+Bananas are an excellent source of potassium.
+Aardvarks are amazing animals native to Africa.
+Did you know that Antarctica is a desert?
+The sun rises in the east and sets in the west.
+Astronauts explore the vastness of space.
+Advanced algorithms can solve complex problems.
+Never underestimate the power of teamwork.
+
+grep -i -q "apple" task.txt && echo "Found"
+Found
