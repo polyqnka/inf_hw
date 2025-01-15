@@ -103,10 +103,10 @@ grep -n --color "grape" example.txt
 3. Сохраните команды и их результаты в файле `results.txt`.
 
 ## Источники 
-- [Дока `grep`](https://man7.org/linux/man-pages/man1/grep.1.html)
+- [Документация `grep`](https://man7.org/linux/man-pages/man1/grep.1.html)
 - [Учебник по регулярным выражениям](https://www.regular-expressions.info/)
 - [Пример использования `grep`](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 - [Источник, где можно найти все](https://www.google.com/)
 
 ### Удачи ! ;>
-[image](https://github.com/polinamitrofanova/inf_hw/blob/main/pics/2024-12-25%2017.04.41.jpg)
+![image](https://github.com/polinamitrofanova/inf_hw/blob/main/pics/2024-12-25%2017.04.41.jpg)
